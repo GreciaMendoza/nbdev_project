@@ -24,9 +24,5 @@ Fill me in please! Don't forget code examples:
 
 
 ```python
-payroll()
-```
-
-```python
 say_hello('Grecia')
 ```
